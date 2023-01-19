@@ -19,7 +19,7 @@
 </dialog>
 
 <style>
-  .modal {
+  /* .modal {
     font-family: Inter;
     font-style: normal;
     font-weight: 500;
@@ -41,7 +41,7 @@
 
     width: 80%;
     max-width: 300px;
-  }
+  } */
 
   dialog::backdrop {
     background: rgba(255, 0, 0, 0.25);
